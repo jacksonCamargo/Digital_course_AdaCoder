@@ -6,4 +6,4 @@
   *teste de restore arquivo do Staged para modefid
   * testendo o push do rep local para repositorio no git
   * novo comandao esta sendo add : git pull
-  * validando o comandando para ver oque existe dentro do arquivo : git fetch 
+  * validando o comandos para ver oque existe dentro do arquivo : git fetch 
