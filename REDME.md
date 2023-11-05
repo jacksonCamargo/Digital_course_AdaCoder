@@ -5,4 +5,4 @@
 
   *teste de restore arquivo do Staged para modefid
   * testendo o push do rep local para repositorio no git
-  * novo comandao esta sendo add : git pull
+  * novo comando esta sendo add : git pull
